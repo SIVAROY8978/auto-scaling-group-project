@@ -7,4 +7,4 @@ This project demonstrate how to deploy high available and scaling the web applic
 # load balancers (classical and application)
 # Auto scaling groups
 # Simple notification services (SNS)
- Security Groups
+# Security Groups
